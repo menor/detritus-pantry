@@ -10,14 +10,14 @@ A dynamic, open source programming language with a focus on simplicity and produ
 [Using Ruby blocks and running your own iterators](http://www.skorks.com/2009/09/using-ruby-blocks-and-rolling-your-own-iterators/) Ruby Blocks in depth.
 
 ### Resources ### 
--[Omniref](http://www.omniref.com/) is a comprehensive Ruby Documentation search engine. You can also access its [table of contents](http://www.omniref.com/docs/ruby/stdlib/2.0.0-p247/index.html).
+[Omniref](http://www.omniref.com/) is a comprehensive Ruby Documentation search engine. You can also access its [table of contents](http://www.omniref.com/docs/ruby/stdlib/2.0.0-p247/index.html).
 
--[Ruby Rogues](http://rubyrogues.com/) an interesting Ruby Podcast, some great episodes like this one on [how we learn](http://rubyrogues.com/131-rr-how-to-learn/) or this other one about [pair programming](http://rubyrogues.com/126-rr-remote-pair-programming-with-sam-livingston-gray/).
+[Ruby Rogues](http://rubyrogues.com/) an interesting Ruby Podcast, some great episodes like this one on [how we learn](http://rubyrogues.com/131-rr-how-to-learn/) or this other one about [pair programming](http://rubyrogues.com/126-rr-remote-pair-programming-with-sam-livingston-gray/).
 
 ## Slug's Culture ##
 Everything related to the Banana Slugs: Blogs fom slugs, achievements, nobel prizes won by Slugs, detritus recipes for a perfect Super Bowl party....
 
--[Bslugs](http://bslugs.com/) A page created by @Quentin that plans to compile everything Banana Slug
+[Bslugs](http://bslugs.com/) A page created by @Quentin that plans to compile everything Banana Slug
 
 
 ## Other Stuff ##
