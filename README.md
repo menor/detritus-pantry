@@ -9,7 +9,7 @@ A dynamic, open source programming language with a focus on simplicity and produ
 ### Articles ###
 [Using Ruby blocks and running your own iterators](http://www.skorks.com/2009/09/using-ruby-blocks-and-rolling-your-own-iterators/) Ruby Blocks in depth.
 
-### Resources ### 
+### Resources ###
 [Omniref](http://www.omniref.com/) is a comprehensive Ruby Documentation search engine. You can also access its [table of contents](http://www.omniref.com/docs/ruby/stdlib/2.0.0-p247/index.html).
 
 [Ruby Rogues](http://rubyrogues.com/) an interesting Ruby Podcast, some great episodes like this one on [how we learn](http://rubyrogues.com/131-rr-how-to-learn/) or this other one about [pair programming](http://rubyrogues.com/126-rr-remote-pair-programming-with-sam-livingston-gray/).
