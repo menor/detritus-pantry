@@ -9,7 +9,14 @@ List of resources compiled by the Banana Slugs to help them graduate from Dev Bo
 
 -[Bslugs](http://bslugs.com/) A page created by @Quentin that plans to compile everything Banana Slug
 
-## Git ##
+### Git ###
 Git is a distributed version control and source code management system with an emphasis on speed. Basically is what a lot of people use to collaborate on writing code together.
 
 [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/) by Roger Dudler. Great guide to start using Git in 5 minutes. Includes links to more guides and resources
+
+### Object Oriented Design ###
+Object-oriented design is the process of planning a system of interacting objects for the purpose of solving a software problem. It is one approach to software design.
+
+[How I explained OOD to my wife](http://www.codeproject.com/Articles/93369/How-I-explained-OOD-to-my-wife) The basics of OO Design explained in layman's terms, great introduction to the subject.
+
+[Uncle Bob's Principles of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) A little more in-depth explanation of the SOLID principles check the PDFs the author links from the tables.
