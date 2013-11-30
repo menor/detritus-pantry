@@ -32,3 +32,10 @@ Object-oriented design is the process of planning a system of interacting object
 [How I explained OOD to my wife](http://www.codeproject.com/Articles/93369/How-I-explained-OOD-to-my-wife) The basics of OO Design explained in layman's terms, great introduction to the subject.
 
 [Uncle Bob's Principles of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) A little more in-depth explanation of the SOLID principles check the PDFs the author links from the tables.
+
+### Markdown ###
+Markdown is a super simple way to add formatting like headers, bold, bulleted lists, and so on to plain text. It was originally designed to be an easy alternative to HTML, and allows people to create web pages with no HTML experience—but it's also a great way to organize notes, to-do lists, and other things. It has all the advantages of plain text, but with the organizational power of a word processor.
+
+[What is Markdown](http://lifehacker.com/5943320/what-is-markdown-and-why-is-it-better-for-my-to+do-lists-and-notes) Great introduction from Lifehacker about what is Markdown and what can you use it for.
+
+[Markdown Tutorial](http://www.markdowntutorial.com/) is a complete interactive tutorial for learning Markdown
