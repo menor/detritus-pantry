@@ -19,6 +19,23 @@ Everything related to the Banana Slugs: Blogs fom slugs, achievements, nobel pri
 
 [Bslugs](http://bslugs.com/) A page created by @Quentin that plans to compile everything Banana Slug
 
+##Frontend##
+HTML, CSS, Sass, Javascript(on the browser), typography...
+
+###HTML###
+[Emmet](http://emmet.io/) Once you know how to code vanilla HTML, try Emmet for a couple of hours and get the same feeling you got when they removed the training wheels from your bike. Check the plugin for Sublime.
+
+###Tools###
+[Guard](https://github.com/guard/guard) is frontend developer best friend, it checks website folders for changes and automatically refresh the browser for you. You don't need to be using Sass or Coffeescript to benefit from Guard, it also works with HTML and vanilla CSS. Here's  [a 10 minute video](http://net.tutsplus.com/tutorials/tools-and-tips/guard-is-your-best-friend/) that teaches how to install and use it.
+
+###Sublime Text Plugins###
+[Color Pick](https://github.com/jnordberg/sublime-colorpick) is a color picker for Sublime Text.
+
+[Sublime SFTP](http://wbond.net/sublime_packages/sftp) is a commercial plugin (with unrestricted trial, but pay if you use it) for managing FTP related stuff from the comfort of Sublime sidebar.
+
+[Emmet for Sublime](https://github.com/sergeche/emmet-sublime) Allows you to code HTML the Emmet style in Sublime.
+
+
 
 ## Other Stuff ##
 ### Git ###
