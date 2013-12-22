@@ -43,6 +43,9 @@ Git is a distributed version control and source code management system with an e
 
 [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/) by Roger Dudler. Great guide to start using Git in 5 minutes. Includes links to more guides and resources
 
+###RegEx##
+[RegEx Golf](http://regex.alf.nu/) is a game to practice your RegEx-Fu.
+
 ### Object Oriented Design ###
 Object-oriented design is the process of planning a system of interacting objects for the purpose of solving a software problem. It is one approach to software design.
 
