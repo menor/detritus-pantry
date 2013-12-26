@@ -25,8 +25,19 @@ HTML, CSS, Sass, Javascript(on the browser), typography...
 ###HTML###
 [Emmet](http://emmet.io/) Once you know how to code vanilla HTML, try Emmet for a couple of hours and get the same feeling you got when they removed the training wheels from your bike. Check the plugin for Sublime.
 
+###Performance Optimization###
+[Web Performance Best Practices](https://developers.google.com/speed/docs/best-practices/rules_intro) Google developers best practices to make your sites fast. 
+
 ###Tools###
-[Guard](https://github.com/guard/guard) is frontend developer best friend, it checks website folders for changes and automatically refresh the browser for you. You don't need to be using Sass or Coffeescript to benefit from Guard, it also works with HTML and vanilla CSS. Here's  [a 10 minute video](http://net.tutsplus.com/tutorials/tools-and-tips/guard-is-your-best-friend/) that teaches how to install and use it.
+[Guard](https://github.com/guard/guard) is frontend developer best friend, it checks website folders for changes and automatically refresh the browser for you. You don't need to be using Sass or Coffeescript to benefit from Guard, it also works with HTML and vanilla CSS. Here's  [a 10 minute video](http://net.tutsplus.com/tutorials/tools-and-tips/guard-is-your-best-friend/) that teaches how to install and use it.  
+
+[ImageOptim](http://imageoptim.com/) optimizes images — so they take up less disk space and load faster — by finding best compression parameters and by removing unnecessary comments and color profiles. It handles PNG, JPEG and GIF animations. You can also [run it from the command line](http://imageoptim.com/command-line.html)
+
+[Responsive Calculator](http://rwdcalc.com/) Turns pixels into percentages, also works with margins.
+
+[SouthStreet Progressive Enhancement Workflow](https://github.com/filamentgroup/southstreet) SouthStreet is a set of tools that combine to form the core of a progressive enhancement workflow developed at [Filament Group](http://filamentgroup.com/). Here are [some notes](http://www.lukew.com/ff/entry.asp?1565) about how to use it.
+
+[FitWeird](http://davatron5000.github.io/fitWeird/) is a bookmarklet that helps you add breakpoints when things get weird. It's about as dumb as it gets. Resize your window, it tells you dimensions in PX and EM.
 
 ###Sublime Text Plugins###
 [Color Pick](https://github.com/jnordberg/sublime-colorpick) is a color picker for Sublime Text.
