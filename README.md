@@ -1,7 +1,7 @@
 detritus-pantry
 ===============
 
-List of resources compiled by the Banana Slugs to help them graduate from Dev Bootcamp.
+List of resources compiled by the Banana Slugs to help them graduate from Dev Bootcamp. Remember that you can fork this repo to and update it if you've already forked it, here's [an explanation](https://help.github.com/articles/fork-a-repo), you can also send me [pull requests](https://help.github.com/articles/using-pull-requests) if you add some resource on your fork and want that replicated on this original one.
 
 ## Ruby ##
 A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
