@@ -28,6 +28,9 @@ HTML, CSS, Sass, Javascript(on the browser), typography...
 ###Performance Optimization###
 [Web Performance Best Practices](https://developers.google.com/speed/docs/best-practices/rules_intro) Google developers best practices to make your sites fast. 
 
+###Typography### 
+[Typography on the web](http://www.inkwell.ie/typography/index.html) it is a little outdated regarding css techniques, but its advice on [typographic style](http://www.inkwell.ie/typography/typographic-style.html) and [best practices](http://www.inkwell.ie/typography/recommendations.html) are gold.
+
 ###Tools###
 [Guard](https://github.com/guard/guard) is frontend developer best friend, it checks website folders for changes and automatically refresh the browser for you. You don't need to be using Sass or Coffeescript to benefit from Guard, it also works with HTML and vanilla CSS. Here's  [a 10 minute video](http://net.tutsplus.com/tutorials/tools-and-tips/guard-is-your-best-friend/) that teaches how to install and use it.  
 
@@ -55,7 +58,8 @@ Git is a distributed version control and source code management system with an e
 [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/) by Roger Dudler. Great guide to start using Git in 5 minutes. Includes links to more guides and resources
 
 ###RegEx##
-[RegEx Golf](http://regex.alf.nu/) is a game to practice your RegEx-Fu.
+[RegEx Golf](http://regex.alf.nu/) is a game to practice your RegEx-Fu.  
+[RegEx Crossword](http://regexcrossword.com/) is another game to improve your Regular Expressions knowledge.
 
 ### Object Oriented Design ###
 Object-oriented design is the process of planning a system of interacting objects for the purpose of solving a software problem. It is one approach to software design.
