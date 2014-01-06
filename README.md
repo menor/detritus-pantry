@@ -1,7 +1,4 @@
-detritus-pantry
-===============
-
-List of resources compiled by the Banana Slugs to help them graduate from Dev Bootcamp. Remember that you can fork this repo to and update it if you've already forked it, here's [an explanation](https://help.github.com/articles/fork-a-repo), you can also send me [pull requests](https://help.github.com/articles/using-pull-requests) if you add some resource on your fork and want that replicated on this original one.
+Remember that you can fork this repo to and update it if you've already forked it, here's [an explanation](https://help.github.com/articles/fork-a-repo), you can also send me [pull requests](https://help.github.com/articles/using-pull-requests) if you add some resource on your fork and want that replicated on this original one.
 
 ## Ruby ##
 A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
@@ -19,11 +16,6 @@ A dynamic, open source programming language with a focus on simplicity and produ
 [RubyTapas](http://www.rubytapas.com/) 'Short screencasts of Gourmet Ruby' it costs $9 a month but has some free and you get access to everything while you are subscribed. I think it's worth it.  
 
 [Ruby5](http://ruby5.envylabs.com/) is another Ruby podcast you should listen to.
-
-## Slug's Culture ##
-Everything related to the Banana Slugs: Blogs fom slugs, achievements, nobel prizes won by Slugs, detritus recipes for a perfect Super Bowl party....
-
-[Bslugs](http://bslugs.com/) A page created by @Quentin that plans to compile everything Banana Slug
 
 ##Frontend##
 HTML, CSS, Sass, Javascript(on the browser), typography...
@@ -53,9 +45,11 @@ Articles about great software & product design, slugs learn a lot from watching 
 
 ##Javascript##
 Javascript importance deserves its own section, with Blackjack and er, well, you know...  
+
 [Javascript Patterns Collection](http://shichuan.github.io/javascript-patterns/) Compiles best patterns for writing Javascript and jQuery.  
 
 ##Tools##
+
 [Guard](https://github.com/guard/guard) is frontend developer best friend, it checks website folders for changes and automatically refresh the browser for you. You don't need to be using Sass or Coffeescript to benefit from Guard, it also works with HTML and vanilla CSS. Here's  [a 10 minute video](http://net.tutsplus.com/tutorials/tools-and-tips/guard-is-your-best-friend/) that teaches how to install and use it.  
 
 [ImageOptim](http://imageoptim.com/) optimizes images — so they take up less disk space and load faster — by finding best compression parameters and by removing unnecessary comments and color profiles. It handles PNG, JPEG and GIF animations. You can also [run it from the command line](http://imageoptim.com/command-line.html)
@@ -94,7 +88,6 @@ Git is a distributed version control and source code management system with an e
 ###Code-Fu###
 Cry in the Dojo, laugh in the battlefield.  
 
-[Codersumo](http://codersumo.com/) 
 [RegEx Golf](http://regex.alf.nu/) is a game to practice your RegEx.  
  
 [RegEx Crossword](http://regexcrossword.com/) is another game to improve your Regular Expressions knowledge.
@@ -121,4 +114,10 @@ Dead people can't program.
 [Setting Up a Mac Dev Machine](http://net.tutsplus.com/tutorials/tools-and-tips/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles) For Banana Slugs living in apples.  
 
 [How to blog about code and give zero fucks](http://www.garann.com/dev/2013/how-to-blog-about-code-and-give-zero-fucks/) Pretty self explanatory title.  
+
+## Slug's Culture ##
+Everything related to the Banana Slugs: Blogs fom slugs, achievements, nobel prizes won by Slugs, detritus recipes for a perfect Super Bowl party....
+
+[Bslugs](http://bslugs.com/) A page created by @Quentin that plans to compile everything Banana Slug
+
 
