@@ -92,6 +92,8 @@ Cry in the Dojo, laugh in the battlefield.
  
 [RegEx Crossword](http://regexcrossword.com/) is another game to improve your Regular Expressions knowledge.
 
+[Code Combat](http://codecombat.com/) Learn to code Javascript by playing a game.
+
 ### Object Oriented Design ###
 Object-oriented design is the process of planning a system of interacting objects for the purpose of solving a software problem. It is one approach to software design.
 
