@@ -117,9 +117,14 @@ Dead people can't program.
 
 [How to blog about code and give zero fucks](http://www.garann.com/dev/2013/how-to-blog-about-code-and-give-zero-fucks/) Pretty self explanatory title.  
 
+###Command Line###
+[Conquering the Command Line](http://conqueringthecommandline.com/book/) A curated introduction to the Linux command line. The online version is free and a great reference guide.
+
 ## Slug's Culture ##
 Everything related to the Banana Slugs: Blogs fom slugs, achievements, nobel prizes won by Slugs, detritus recipes for a perfect Super Bowl party....
 
-[Bslugs](http://bslugs.com/) A page created by @Quentin that plans to compile everything Banana Slug
+[Bslugs](http://bslugs.com/) A page created by @Quentin that plans to compile everything Banana Slug.
+
+
 
 
