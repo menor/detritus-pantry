@@ -8,6 +8,8 @@ A dynamic, open source programming language with a focus on simplicity and produ
 ### Articles ###
 [Using Ruby blocks and running your own iterators](http://www.skorks.com/2009/09/using-ruby-blocks-and-rolling-your-own-iterators/) Ruby Blocks in depth.
 
+[The Strange Ruby Splat](http://endofline.wordpress.com/2011/01/21/the-strange-ruby-splat/) Having fun with the splat operator.  
+
 ### Resources ###
 [Omniref](http://www.omniref.com/) is a comprehensive Ruby Documentation search engine. You can also access its [table of contents](http://www.omniref.com/docs/ruby/stdlib/2.0.0-p247/index.html).
 
