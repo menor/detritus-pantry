@@ -12,6 +12,8 @@ A dynamic, open source programming language with a focus on simplicity and produ
 
 [Learn IRB](http://www.rubyinside.com/irb-lets-bone-up-on-the-interactive-ruby-shell-1771.html) Learn the interactive Ruby Shell.
 
+[Boosting your Rails Developer Workflow](http://www.sitepoint.com/boosting-your-rails-development-workflow/) Let’s explore few gems and scripts that will help you get things done faster and better.
+
 ### Gems ###
 [Awesome Print](https://github.com/michaeldv/awesome_print)  a Ruby library that pretty prints Ruby objects in full color exposing their internal structure with proper indentation.
 
