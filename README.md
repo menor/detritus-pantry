@@ -10,6 +10,11 @@ A dynamic, open source programming language with a focus on simplicity and produ
 
 [The Strange Ruby Splat](http://endofline.wordpress.com/2011/01/21/the-strange-ruby-splat/) Having fun with the splat operator.  
 
+[Learn IRB](http://www.rubyinside.com/irb-lets-bone-up-on-the-interactive-ruby-shell-1771.html) Learn the interactive Ruby Shell.
+
+### Gems ###
+[Awesome Print](https://github.com/michaeldv/awesome_print)  a Ruby library that pretty prints Ruby objects in full color exposing their internal structure with proper indentation.
+
 ### Resources ###
 [Omniref](http://www.omniref.com/) is a comprehensive Ruby Documentation search engine. You can also access its [table of contents](http://www.omniref.com/docs/ruby/stdlib/2.0.0-p247/index.html).
 
