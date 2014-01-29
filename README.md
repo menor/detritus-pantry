@@ -14,6 +14,8 @@ A dynamic, open source programming language with a focus on simplicity and produ
 
 [Boosting your Rails Developer Workflow](http://www.sitepoint.com/boosting-your-rails-development-workflow/) Let’s explore few gems and scripts that will help you get things done faster and better.
 
+[Sortng Algorithms in Ruby](http://jlarusso.github.io/blog/2013/04/30/sorting-algorithms-in-ruby/) A gift from the gods to learn about algorithms.
+
 ### Gems ###
 [Awesome Print](https://github.com/michaeldv/awesome_print)  a Ruby library that pretty prints Ruby objects in full color exposing their internal structure with proper indentation.
 
@@ -102,6 +104,8 @@ Cry in the Dojo, laugh in the battlefield.
 [RegEx Crossword](http://regexcrossword.com/) is another game to improve your Regular Expressions knowledge.
 
 [Code Combat](http://codecombat.com/) Learn to code Javascript by playing a game.
+
+[Shortcut Fu](https://www.shortcutfoo.com/app/tutorial/sublimetext) Learn Sublime shortcuts by practice.
 
 ### Object Oriented Design ###
 Object-oriented design is the process of planning a system of interacting objects for the purpose of solving a software problem. It is one approach to software design.
